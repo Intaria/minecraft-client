@@ -1,6 +1,6 @@
 # Вороний сервер Maincraft (1.16.3)
 
-[Отличия от оригинальной версии](https://github.com/Intaria/minecraft/blob/main/docs/changes.md) • [Будущие изменения](https://github.com/Intaria/minecraft/blob/main/docs/plans.md)
+[Отличия от оригинальной версии](https://github.com/Intaria/minecraft/blob/main/docs/changes.md) • [Будущие изменения](https://github.com/Intaria/minecraft/blob/main/docs/plans.md) • [Если хочется помочь](https://github.com/Intaria/minecraft/blob/main/docs/modding-instruction.md)
 
 #### Настройка клиента
 1. Качаем [оригинальный клиент](https://www.minecraft.net/ru-ru/download)
