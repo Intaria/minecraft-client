@@ -11,3 +11,8 @@
 
 Для каждого из дополнения возможна одна из двух ситуаций: [оставлять нужно больше, чем удалять](https://github.com/Intaria/minecraft/blob/main/docs/modding-instruction-easy.md), или [наоборот](https://github.com/Intaria/minecraft/blob/main/docs/modding-instruction-hard.md). 
 
+### Собираем все обратно
+В корневой директории дополнения запускаем файл gradlew.bat. 
+
+Если все пройдет хорошо, по завершению (окошко закроется само) в папке build/libs вы увидите .jar-файл собранного дополнения.
+
