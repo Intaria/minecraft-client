@@ -1,11 +1,12 @@
 # Будущие изменения
 
+- [ ] единый текстурпак
+
 - [ ] трубы и транспортировка жидкостей [[И]](https://www.curseforge.com/minecraft/mc-mods/refined-pipes)
 - [ ] контейнеры для жидкостей [[И]](https://www.curseforge.com/minecraft/mc-mods/largefluidtank)
 - [ ] замки и ключи для сундуков, возможность удалять седло со свиней, ковры можно установить на лестницы, возможность установить в горшок любой цветок и растение, факел-переключатель и полка-переключатель, садовые дорожки (каменные, круглые и кирпичные), ковер-люк [[И]](https://www.curseforge.com/minecraft/mc-mods/inspirations/screenshots)
 - [ ] динамическое окружение (новые аудио и видеоэффекты): туман, пар, пузыри, брызки, светлячки и северное сияние) [[И]](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-environs)
 - [ ] увеличен цикл дня и ночи [[И]](https://www.curseforge.com/minecraft/customization/timescale)/[[И2]](https://www.curseforge.com/minecraft/mc-mods/time-speed-mod)
-- [ ] 20 разновидностей для собак [[И]](https://www.curseforge.com/minecraft/texture-packs/better-dogs)
 - [ ] китайские колокольчики [[И]](https://www.curseforge.com/minecraft/mc-mods/chimes)
 - [ ] деревянные подпорки, скамейки, барные стойки, железные цепи, железные и деревянные решетки, [[И]](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
 - [ ] мангалы [[И]](https://www.curseforge.com/minecraft/mc-mods/crock-pot)
