@@ -10,12 +10,10 @@
 - деревянные подпорки, скамейки, барные стойки, железные цепи, железные и деревянные решетки, [[И]](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
 - мангалы [[И]](https://www.curseforge.com/minecraft/mc-mods/crock-pot)
 - 400+ новых кулинарных рецептов для новых деревьев и растений [[И]](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended)
-- броня из костей дракона
-- кольца
 - крокодилы [[И]](https://www.curseforge.com/minecraft/mc-mods/crocodiles)
 - койоты, тарантулы, фазаны, медведи (черный, гризли, бурый), козлы, северные олени, кабаны, белки, барсуки, новые виды птиц, крабы, лоси, дикие волки, индюки, моржи, гуси, кальмары (не гигантские), осминоги [[И]](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus/screenshots)
 - гоблинги, аллигаторы, раки-отшельники, игуаны, акулы, скорпионы, додо, утконосы, гигантские крабы [[И]](https://www.curseforge.com/minecraft/mc-mods/sullys-mobs)
 - грибблинги, хобгоблины, тролли, энты, вампиры, гули, каменные големы кактусовая черепаха, феньки, лохматые коровы [[И]](https://www.curseforge.com/minecraft/mc-mods/additional-creatures)
-- сирены, василиски, гиппогрифы, стимфалийские птицы, кетцалькоатли, медуза-горгона, гидра, циклопы [[И]](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
+- сирены, василиски, гиппогрифы, стимфалийские птицы, кетцалькоатли, медуза-горгона, гидра, циклопы, часть предметов (повязка на глаза, череп тролля или дракона, костяная броня, кольца и тд для собственных рецептов) [[И]](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
 - плеточники, морские коньки, бизоны [[И]](https://www.curseforge.com/minecraft/mc-mods/pandoras-creatures/)
 - джунгливые охотники, йети, светлячки, наги [[И]](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
