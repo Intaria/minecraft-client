@@ -10,6 +10,7 @@
 - [ ] китайские колокольчики [[И]](https://www.curseforge.com/minecraft/mc-mods/chimes)
 - [ ] деревянные подпорки, скамейки, барные стойки, железные цепи, железные и деревянные решетки, [[И]](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
 - [ ] мангалы [[И]](https://www.curseforge.com/minecraft/mc-mods/crock-pot)
+- [ ] пьедесталы [[И]](https://www.curseforge.com/minecraft/mc-mods/theos-pedestals)
 - [ ] 400+ новых кулинарных рецептов для новых деревьев и растений [[И]](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended)
 - [ ] крокодилы [[И]](https://www.curseforge.com/minecraft/mc-mods/crocodiles)
 - [ ] койоты, тарантулы, фазаны, медведи (черный, гризли, бурый), козлы, северные олени, кабаны, белки, барсуки, новые виды птиц, крабы, лоси, дикие волки, индюки, моржи, гуси, кальмары (не гигантские), осминоги [[И]](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus/screenshots)
