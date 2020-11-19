@@ -41,6 +41,7 @@
 - новые варианты скомпрессированных блоков: сахарный тростник, бамбук, кактус, хорус, палки, яблоки, золотые яблоки, картошка, морковка, репа, какао, сладкие ягоды, незер грибы, порох
 - новые варианты кирпичей (+ лестницы и плиты): песок, снег, магма, обугленный незер, песчаник, голубой незер
 - 120+ новых кулинарных рецептов из ингридиентов ванильной версии
+- 400+ новых кулинарных рецептов для новых деревьев и растений
 - 70+ новых семен и растений: 
 Blackberry, Blueberry, Cactus Fruit, Candleberry, Cantaloupe, Cranberry, Grape, Green Grape, Huckleberry, Juniperberry, Kiwi, Mulberry, Pineapple, Raspberry, Strawberry, Cotton, Flax, Jute, Kenaf, Sisal, Amaranth, Barley, Bean, Chickpea, Corn, Lentil, Oats, Quinoa, Rice, Rye, Soybean, Arrowroot, Artichoke, Asparagus, Bellpepper, Broccoli, Brussel Sprout, Cabbage, Cassava, Cauliflower, Celery, Chili Pepper, Cucumber, Eggplant, Garlic, Jicama, Kale, Kohlrabi, Leek, Lettuce, Okra, Onion, Parsnip, Peanut, Peas, Radish, Rhubarb, Rutabaga, Scallion, Spinach, Sweet Potato, Taro, Tomatillo, Tomato, Turnip, Water Chestnut, Winter Squash, Zucchini, Coffee Bean, Tea Leaf, Agave, White Mushroom, Ginger, Sesame Seeds, Spice Leaf, Mustard Seeds
 - кормушка для животных (автоматически кормит животных для их размножения, до момента, когда в радиусе 8 клеток не станет 16 животных)
