@@ -149,39 +149,6 @@
 		#Range: 1 ~ 32767
 		SpawnWeight = 15
 
-#Mob-Config for Crab
-[Crab]
-	CanAttack = true
-	#requires Client and Server restart
-	#Range: 1.0 ~ 32767.0
-	AttackDamage = 1.0
-	#requires Client and Server restart
-	#Range: 1.0 ~ 32767.0
-	Health = 8.0
-
-	#requires Client and Server restart | to disable Spawning leave the array SpawnBoimes empty | can spawn on grass/dirt and sand blocks
-	[Crab.Spawns]
-		#Range: 1 ~ 32767
-		MaxSpawns = 8
-		#Range: 1 ~ 32767
-		MinSpawns = 5
-		SpawnBoimes = []
-		#Range: 1 ~ 32767
-		SpawnWeight = 50
-
-	#the values are considered as weighted-random items
-	[Crab.ColorVariantWeights]
-		Color2Weight = 50
-		Color1Weight = 50
-		AlbinoWeight = 1
-
-	#the values are considered as weighted-random items
-	[Crab.ScalingWeights]
-		Scaling1Weight = 30
-		Scaling3Weight = 25
-		Scaling4Weight = 15
-		Scaling2Weight = 30
-
 #Mob-Config for Mantaray
 [Mantaray]
 	#requires Client and Server restart
@@ -251,28 +218,3 @@
 		colorWhiteWeight = 33
 		colorBrownWeight = 33
 		colorBlackWeight = 33
-
-#Mob-Config for AncientBlaze
-[AncientBlaze]
-	#requires Client and Server restart
-	#Range: 1.0 ~ 32767.0
-	AttackDamage = 6.0
-	CanAttack = true
-	#requires Client and Server restart
-	#Range: 1.0 ~ 32767.0
-	Health = 250.0
-	#chance for the attack to be a large fireball
-	#Range: 0 ~ 100
-	LargeFireballChance = 20
-	#time in ticks, until the entity can be hit
-	#Range: 10 ~ 32767
-	InvulnerableTime = 200
-	#amount of blazes spawned on death
-	#Range: 0 ~ 16
-	BlazeSpawnCount = 4
-	#wether or not the entity shall despawn when peaceful is turned on
-	PeacefulDespawn = true
-	#max amount of large fireballs to shoot
-	#Range: 0 ~ 10
-	LargeFireballCount = 6
-

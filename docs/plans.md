@@ -1,6 +1,7 @@
 # Будущие изменения
 
 - [ ] единый текстурпак
+- [ ] отключить промотку времени суток с помощью сна
 
 - [ ] трубы и транспортировка жидкостей [[И]](https://www.curseforge.com/minecraft/mc-mods/refined-pipes)
 - [ ] контейнеры для жидкостей [[И]](https://www.curseforge.com/minecraft/mc-mods/largefluidtank)
