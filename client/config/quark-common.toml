@@ -48,7 +48,7 @@
 	"Redstone Circuit" = true
 	"Chain Linkage" = false
 	Gravisand = false
-	"Metal Buttons" = true
+	"Metal Buttons" = false
 	"Obsidian Plate" = false
 	"Pistons Move Tile Entities" = false
 	"Feeding Trough" = true
@@ -65,8 +65,8 @@
 		"Enable Randomizer" = true
 
 	[automation.metal_buttons]
-		"Enable Iron" = true
-		"Enable Gold" = true
+		"Enable Iron" = false
+		"Enable Gold" = false
 
 	[automation.endermites_form_shulkers]
 		Chance = 0.005
@@ -77,7 +77,7 @@
 		"Delayed Update List" = ["minecraft:dispenser", "minecraft:dropper"]
 
 	[automation.color_slime]
-		"Change Name" = true
+		"Change Name" = false
 
 	[automation.feeding_trough]
 		#The chance (between 0 and 1) for an animal to enter love mode when eating from the trough
@@ -103,14 +103,14 @@
 	Thatch = true
 	"Variant Chests" = true
 	"Variant Ladders" = true
-	"Vertical Slabs" = false
+	"Vertical Slabs" = true
 	Shingles = false
 	"Nether Brick Fence Gate" = true
 	"Item Frames" = false
 	"Stained Planks" = false
 	"Leaf Carpet" = true
 	"Lit Lamp" = true
-	"Vertical Planks" = false
+	"Vertical Planks" = true
 	Midori = false
 	"Tie Leads To Fences" = true
 	"Shallow Dirt" = false
@@ -310,7 +310,7 @@
 	"Double Door Opening" = true
 	"Automatic Recipe Unlock" = true
 	"Poison Potato Usage" = false
-	"Improved Sleeping" = true
+	"Improved Sleeping" = false
 	"Infinity Bucket" = false
 	"Springy Slime" = true
 	Emotes = true

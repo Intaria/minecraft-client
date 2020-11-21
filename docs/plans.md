@@ -2,6 +2,9 @@
 
 - [ ] единый текстурпак
 - [ ] отключить промотку времени суток с помощью сна
+- [ ] отключить распространение огня (/gamerule doFireTick false)
+- [ ] отключить дебаг
+- [ ] добавить в генерацию мира маленькие камни и ветки [[И]](https://www.curseforge.com/minecraft/mc-mods/this-rocks)
 
 - [ ] трубы и транспортировка жидкостей [[И]](https://www.curseforge.com/minecraft/mc-mods/refined-pipes)
 - [ ] контейнеры для жидкостей [[И]](https://www.curseforge.com/minecraft/mc-mods/largefluidtank)
