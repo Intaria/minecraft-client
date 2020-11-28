@@ -2,7 +2,7 @@
 
 [Отличия от оригинальной версии](https://github.com/Intaria/minecraft/blob/main/docs/changes.md) • [Будущие изменения](https://github.com/Intaria/minecraft/blob/main/docs/plans.md) • [Если хочется помочь](https://github.com/Intaria/minecraft/blob/main/docs/modding-instruction.md)
 
-IP сервера: 81.90.181.143
+IP сервера: 81.90.181.143 • [Карта мира](http://81.90.181.143:8123/) 
 
 #### Настройка клиента
 1. Качаем [оригинальный клиент](https://www.minecraft.net/ru-ru/download)

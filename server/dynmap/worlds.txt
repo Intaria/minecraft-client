@@ -1,0 +1,7 @@
+  - class: org.dynmap.hdmap.HDMap
+    name: myhdmap
+    title: "My HD Map"
+    prefix: hdm1
+    perspective: iso_S_90_lowres
+    shader: stdtexture
+    lighting: default
