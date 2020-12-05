@@ -1,4 +1,4 @@
-# Вороний сервер Maincraft (1.16.3)
+# Вороний сервер Maincraft (1.16.4)
 
 [Отличия от оригинальной версии](https://github.com/Intaria/minecraft/blob/main/docs/changes.md) • [Будущие изменения](https://github.com/Intaria/minecraft/blob/main/docs/plans.md) • [Если хочется помочь](https://github.com/Intaria/minecraft/blob/main/docs/modding-instruction.md)
 
@@ -6,7 +6,7 @@ IP сервера: 81.90.181.143 • [Карта мира](http://81.90.181.143:
 
 #### Настройка клиента
 1. Качаем [оригинальный клиент](https://www.minecraft.net/ru-ru/download)
-2. Качаем Launcher [forge](http://files.minecraftforge.net/) версии 34.1.42  и устанавливаем его
+2. Качаем Launcher [forge](http://files.minecraftforge.net/) версии 35.1.10  и устанавливаем его
 3. Скачиваем все файлы текущего репозитория из директории client и переносим их в Minecraft 
    >Путь с игрой по умолчанию: %appdata%\\.minecraft
 4. Запускаем оригинальный лаунчер (не саму игру)
