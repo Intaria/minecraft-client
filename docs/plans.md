@@ -1,12 +1,9 @@
 # Будущие изменения
 
 - [ ] единый текстурпак
-- [ ] отключить промотку времени суток с помощью сна
-- [ ] отключить распространение огня (/gamerule doFireTick false)
 - [ ] отключить дебаг
 - [ ] добавить в генерацию мира маленькие камни и ветки [[И]](https://www.curseforge.com/minecraft/mc-mods/this-rocks)
 
-- [ ] трубы и транспортировка жидкостей [[И]](https://www.curseforge.com/minecraft/mc-mods/refined-pipes)
 - [ ] контейнеры для жидкостей [[И]](https://www.curseforge.com/minecraft/mc-mods/largefluidtank)
 - [ ] замки и ключи для сундуков, возможность удалять седло со свиней, ковры можно установить на лестницы, возможность установить в горшок любой цветок и растение, факел-переключатель и полка-переключатель, садовые дорожки (каменные, круглые и кирпичные), ковер-люк [[И]](https://www.curseforge.com/minecraft/mc-mods/inspirations/screenshots)
 - [ ] динамическое окружение (новые аудио и видеоэффекты): туман, пар, пузыри, брызки, светлячки и северное сияние) [[И]](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-environs)
@@ -14,7 +11,6 @@
 - [ ] китайские колокольчики [[И]](https://www.curseforge.com/minecraft/mc-mods/chimes)
 - [ ] деревянные подпорки, скамейки, барные стойки, железные цепи, железные и деревянные решетки, [[И]](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
 - [ ] мангалы [[И]](https://www.curseforge.com/minecraft/mc-mods/crock-pot)
-- [ ] пьедесталы [[И]](https://www.curseforge.com/minecraft/mc-mods/theos-pedestals)
 - [ ] крокодилы [[И]](https://www.curseforge.com/minecraft/mc-mods/crocodiles)
 - [ ] койоты, тарантулы, фазаны, медведи (черный, гризли, бурый), козлы, северные олени, кабаны, белки, барсуки, новые виды птиц, крабы, лоси, дикие волки, индюки, моржи, гуси, кальмары (не гигантские), осминоги [[И]](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus/screenshots)
 - [ ] гоблины, аллигаторы, раки-отшельники, игуаны, акулы, скорпионы, додо, утконосы, гигантские крабы [[И]](https://www.curseforge.com/minecraft/mc-mods/sullys-mobs)
