@@ -1,16 +1,16 @@
 [[curiosSettings]]
-  visible = 1
+  visible = true
   identifier = "head"
 
 [[curiosSettings]]
-  visible = 1
+  visible = true
   identifier = "necklace"
 
 [[curiosSettings]]
   identifier = "ring"
-  visible = 1
+  visible = true
   size = 2
   
 [[curiosSettings]]
-  visible = 1
+  visible = true
   identifier = "back"
