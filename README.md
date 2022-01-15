@@ -9,8 +9,10 @@ IP сервера: 81.90.181.11
 2. Качаем [forge](http://files.minecraftforge.net/) для версии 1.18.1 и устанавливаем его с выбранной опцией "Client"
 3. Скачиваем текущий репозиторий (зеленая кнопка "code" > Download ZIP)
 4. Распаковываем содержимое архива из директории "src" в папку с игрой 
+
 Windows:
    >%appdata%\\.minecraft
+
 Linux:
    >/home/{$username}/.minecraft
 
