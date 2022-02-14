@@ -1,0 +1,4 @@
+{
+    "conditions": { "not": "guiretextures:dark_mode" },
+    "fallbacks": "assets/bedrockify/textures/gui/bedrockify_widgets_dark_mode.png"
+}

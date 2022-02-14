@@ -1,0 +1,5 @@
+{
+    "conditions": { "not": "guiretextures:dark_mode" },
+    "fallbacks": "assets/speedtrading/textures/gui/speedtrade_dark_mode.png"
+}
+
