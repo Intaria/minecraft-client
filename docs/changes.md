@@ -2,7 +2,7 @@
 
 ### Новые предметы
 
-<table>
+<table align="center">
     <tr>
         <td> 
             <img src="/docs/images/icons/sleeping_bag.png" width = 32px height = 32px>
