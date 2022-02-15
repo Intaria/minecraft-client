@@ -5,10 +5,19 @@
 <table>
     <tr>
         <td align="center">
-            <a href="#test"> 
+            <a href="/docs/pages/items/sleeping_bags.md"> 
                 <img src="/docs/images/icons/sleeping_bag_white.png" width = 32px height = 32px>
                 <br>
-                Гамаки и спальные мешки
+                Спальные мешки
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="/docs/pages/items/hammocks.md"> 
+                <img src="/docs/images/icons/hammock_blue.png" width = 32px height = 32px>
+                <br>
+                Гамаки
             </a>
         </td>
     </tr>
