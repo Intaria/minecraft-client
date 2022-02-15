@@ -4,7 +4,7 @@
     <tr>
         <td align="center">
             <a href="/docs/pages/blocks.md"> 
-                <img src="" width = 32px height = 32px>
+                <img src="/docs/images/categories/blocks.png" width = 100px height = 100px>
                 <br>
                 Строения и блоки
             </a>
@@ -27,7 +27,7 @@
     <tr>
         <td align="center">
             <a href="/docs/pages/mobs.md"> 
-                <img src="/docs/images/categories/mobs.png" height = 300px>
+                <img src="/docs/images/categories/mobs.png" width = 100px height = 100px>
                 <br>
                 Животные и монстры
             </a>
