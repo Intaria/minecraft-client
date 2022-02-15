@@ -5,7 +5,7 @@
 <table>
     <tr>
         <td align="center">
-            <a> 
+            <a href="#test"> 
                 <img src="/docs/images/icons/sleeping_bag_white.png" width = 32px height = 32px>
                 <br>
                 Гамаки и спальные мешки
