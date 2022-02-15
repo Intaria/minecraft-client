@@ -5,7 +5,7 @@
 <table>
     <tr>
         <td> 
-            <img src="/Intaria/minecraft-client/main/docs/images/icons/sleeping_bag_white.png">
+            <img src="/Intaria/minecraft-client/main/docs/images/icons/sleeping_bag_white.png" width = 32px height = 32px>
             <br>
             Гамаки и спальные мешки
         </td>
