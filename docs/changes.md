@@ -11,14 +11,14 @@
         </td>
         <td align="center">
             <a href="/docs/pages/items.md"> 
-                <img src="/docs/images/categories/items.md" width = 100px height = 100px>
+                <img src="/docs/images/categories/items.png" width = 100px height = 100px>
                 <br>
                 Предметы
             </a>
         </td>
         <td align="center">
             <a href="/docs/pages/trees-and-crops.md"> 
-                <img src="/docs/images/categories/trees-and-crops.md" width = 100px height = 100px>
+                <img src="/docs/images/categories/trees-and-crops.png" width = 100px height = 100px>
                 <br>
                 Деревья и растения
             </a>
@@ -34,14 +34,14 @@
         </td>
         <td align="center">
             <a href="/docs/pages/structures.md"> 
-                <img src="/docs/images/categories/structures.md" width = 100px height = 100px>
+                <img src="/docs/images/categories/structures.png" width = 100px height = 100px>
                 <br>
                 Здания и структуры
             </a>
         </td>
         <td align="center">
             <a href="/docs/pages/weather-and-events.md"> 
-                <img src="/docs/images/categories/weather-and-events.md" width = 100px height = 100px>
+                <img src="/docs/images/categories/weather-and-events.png" width = 100px height = 100px>
                 <br>
                 Погода и игровые события
             </a>
@@ -50,14 +50,14 @@
     <tr>
         <td align="center">
             <a href="/docs/pages/mechanics.md"> 
-                <img src="" width = 32px height = 32px>
+                <img src="/docs/images/categories/mechanics.png" width = 100px height = 100px>
                 <br>
                 Геймплей
             </a>
         </td>
         <td align="center">
             <a href="/docs/pages/others.md"> 
-                <img src="" width = 32px height = 32px>
+                <img src="/docs/images/categories/others-updates.png" width = 100px height = 100px>
                 <br>
                 Прочие улучшения
             </a>
