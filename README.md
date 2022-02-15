@@ -1,6 +1,6 @@
 # Вороний сервер Maincraft (1.18.1)
 
-[Отличия от оригинальной версии](https://github.com/Intaria/minecraft/blob/main/docs/changes.md) • [Будущие изменения](https://github.com/Intaria/minecraft/blob/main/docs/plans.md)
+[Отличия от оригинальной версии](https://github.com/Intaria/minecraft/blob/main/docs/changes.md)
 
 IP сервера: 81.90.181.11
 

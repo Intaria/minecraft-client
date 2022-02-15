@@ -11,14 +11,14 @@
         </td>
         <td align="center">
             <a href="/docs/pages/items.md"> 
-                <img src="" width = 32px height = 32px>
+                <img src="/docs/images/categories/items.md" width = 100px height = 100px>
                 <br>
                 Предметы
             </a>
         </td>
         <td align="center">
             <a href="/docs/pages/trees-and-crops.md"> 
-                <img src="" width = 32px height = 32px>
+                <img src="/docs/images/categories/trees-and-crops.md" width = 100px height = 100px>
                 <br>
                 Деревья и растения
             </a>
@@ -34,14 +34,14 @@
         </td>
         <td align="center">
             <a href="/docs/pages/structures.md"> 
-                <img src="" width = 32px height = 32px>
+                <img src="/docs/images/categories/structures.md" width = 100px height = 100px>
                 <br>
                 Здания и структуры
             </a>
         </td>
         <td align="center">
             <a href="/docs/pages/weather-and-events.md"> 
-                <img src="" width = 32px height = 32px>
+                <img src="/docs/images/categories/weather-and-events.md" width = 100px height = 100px>
                 <br>
                 Погода и игровые события
             </a>
