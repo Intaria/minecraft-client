@@ -24,6 +24,8 @@
                 Бабуин
             </a>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <a href="/docs/mobs/.md"> 
                 <img src="" width = 32px height = 32px>
@@ -31,8 +33,6 @@
                 Барракуда
             </a>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="/docs/mobs/.md"> 
                 <img src="" width = 32px height = 32px>
@@ -47,6 +47,8 @@
                 Белка
             </a>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <a href="/docs/mobs/.md"> 
                 <img src="" width = 32px height = 32px>
