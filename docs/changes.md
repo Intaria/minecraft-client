@@ -17,14 +17,12 @@
             </a>
         </td>
         <td align="center">
-            <a href="/docs/pages/trees-and-crops.md"> 
-                <img src="/docs/images/categories/trees-and-crops.png" width = 100px height = 100px>
+            <a href="/docs/pages/structures.md"> 
+                <img src="/docs/images/categories/structures.png" width = 100px height = 100px>
                 <br>
-                Деревья и растения
+                Здания и структуры
             </a>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="/docs/pages/mobs.md"> 
                 <img src="/docs/images/categories/mobs.png" width = 100px height = 100px>
@@ -32,11 +30,13 @@
                 Животные и монстры
             </a>
         </td>
+    </tr>
+    <tr>
         <td align="center">
-            <a href="/docs/pages/structures.md"> 
-                <img src="/docs/images/categories/structures.png" width = 100px height = 100px>
+            <a href="/docs/pages/trees-and-crops.md"> 
+                <img src="/docs/images/categories/trees-and-crops.png" width = 100px height = 100px>
                 <br>
-                Здания и структуры
+                Деревья и растения
             </a>
         </td>
         <td align="center">
@@ -46,8 +46,6 @@
                 Погода и игровые события
             </a>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="/docs/pages/mechanics.md"> 
                 <img src="/docs/images/categories/mechanics.png" width = 100px height = 100px>
