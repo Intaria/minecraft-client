@@ -2,10 +2,10 @@
 
 ### Новые предметы
 
-<table style="padding:10px">
+<table>
     <tr>
         <td> 
-            <img src="./Scshot/requesting_cab.png">
+            <img src="/Intaria/minecraft-client/main/docs/images/icons/sleeping_bag_white.png">
             <br>
             Гамаки и спальные мешки
         </td>
