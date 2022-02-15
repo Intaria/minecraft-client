@@ -2,12 +2,14 @@
 
 ### Новые предметы
 
-<table align="center">
+<table>
     <tr>
-        <td> 
-            <img src="/docs/images/icons/sleeping_bag.png" width = 32px height = 32px>
-            <br>
-            Гамаки и спальные мешки
+        <td align="center">
+            <a> 
+                <img src="/docs/images/icons/sleeping_bag.png" width = 32px height = 32px>
+                <br>
+                Гамаки и спальные мешки
+            </a>
         </td>
     </tr>
 </table>
