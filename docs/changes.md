@@ -27,9 +27,9 @@
     <tr>
         <td align="center">
             <a href="/docs/pages/mobs.md"> 
-                <img src="" width = 32px height = 32px>
+                <img src="/docs/images/categories/mobs.png" height = 300px>
                 <br>
-                Монстры
+                Животные и монстры
             </a>
         </td>
         <td align="center">
@@ -77,7 +77,6 @@
 - Вентиль для воды
 - Замки
 - Флейта
-- Лодки с сундуками
 
 ### Декоративные блоки
 - Веревки
