@@ -1,0 +1,7 @@
+autoJump:false
+skipMultiplayerWarning:true 
+tutorialStep:none
+mainHand:right
+resourcePacks:[]
+difficulty:3
+graphicsMode:1
