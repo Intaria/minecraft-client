@@ -1,3 +1,4 @@
+/*
 onEvent('jei.hide.items', event => {
     event.hide([
         'createaddition:brass_rod',
@@ -16,3 +17,4 @@ onEvent('jei.hide.items', event => {
         'createaddition:zinc_sheet'
     ]);
 });
+*/
