@@ -10,4 +10,3 @@
 	# Displays info on top of Structure Blocks and Jigsaws in world.
 	# Default: true
 	show_structure_block_info = false
-
