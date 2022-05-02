@@ -1,5 +1,7 @@
 onEvent('jei.hide.items', event => {
     event.hide([
-        'hunterillager:boomerang'
+        'hunterillager:boomerang',
+
+        'hunterillager:spawnegg_hunterillager',
     ]);
 })

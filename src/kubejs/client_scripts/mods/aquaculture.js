@@ -10,6 +10,22 @@ onEvent('jei.hide.items', event => {
         'aquaculture:diamond_fillet_knife',
         'aquaculture:neptunium_fillet_knife',
         'aquaculture:neptunium_ingot',
-        'aquaculture:neptunium_nugget'
+        'aquaculture:neptunium_nugget',
+        'aquaculture:neptunium_block',
+        'aquaculture:neptunium_boots',
+        'aquaculture:neptunium_leggings',
+        'aquaculture:neptunium_chestplate',
+        'aquaculture:neptunium_helmet',
+        'aquaculture:neptunium_bow',
+        'aquaculture:neptunium_sword',
+        'aquaculture:neptunium_hoe',
+        'aquaculture:neptunium_axe',
+        'aquaculture:neptunium_shovel',
+        'aquaculture:neptunium_pickaxe',
+        'aquaculture:neptunes_bounty',
+
+        'aquaculture:box_turtle_spawn_egg',
+        'aquaculture:arrau_turtle_spawn_egg',
+        'aquaculture:starshell_turtle_spawn_egg',
     ]);
 });

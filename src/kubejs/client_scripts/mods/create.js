@@ -52,6 +52,8 @@ onEvent('jei.hide.items', event => {
         'create:stressometer',
         'create:wand_of_symmetry',
         'create:zinc_nugget',
-        'create:zinc_ingot'
+        'create:zinc_ingot',
+
+        'create:handheld_worldshaper',
     ]);
 });

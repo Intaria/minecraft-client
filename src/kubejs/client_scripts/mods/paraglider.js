@@ -5,6 +5,11 @@ onEvent('jei.hide.items', event => {
         'paraglider:goddess_statue',
         'paraglider:rito_goddess_statue',
         'paraglider:goron_goddess_statue',
-        'paraglider:kakariko_goddess_statue'
+        'paraglider:kakariko_goddess_statue',
+        'paraglider:heart_container',
+        'paraglider:stamina_vessel',
+        'paraglider:spirit_orb',
+        'paraglider:anti_vessel',
+        'paraglider:essence'
     ]);
 })
