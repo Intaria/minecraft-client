@@ -1,6 +1,9 @@
 {
   "allowMovement": {
-    "net.minecraft.client.gui.screens.ReceivingLevelScreen": true
+    "net.minecraft.client.gui.screens.ReceivingLevelScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
   },
-  "hideBackground": {}
+  "hideBackground": {
+    "mezz.jei.gui.recipes.RecipesGui": true
+  }
 }

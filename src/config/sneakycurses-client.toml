@@ -8,3 +8,4 @@ color_item_name = true
 affect_books = false
 #Temporarily show tooltip as usual including curses while shift key is held.
 shift_shows_curses = false
+

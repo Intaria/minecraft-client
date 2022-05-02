@@ -204,3 +204,4 @@
 	[items.flute]
 		#Display visual particles when a playing a flute
 		note_particles = true
+

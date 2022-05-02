@@ -21,9 +21,6 @@
 	#Range: 1.0 ~ 3.4028234663852886E38
 	filterItemRenderDistance = 10.0
 	# 
-	#Use modern OpenGL features to drastically increase performance.
-	experimentalRendering = true
-	# 
 	#The maximum amount of blocks for which to try and calculate dynamic contraption lighting. Decrease if large contraption cause too much lag
 	#Range: > 0
 	maximumContraptionLightVolume = 16384
@@ -50,6 +47,9 @@
 	# 
 	#Setting this to true will prevent Create from sending you a warning when playing with Fabulous graphics enabled
 	ignoreFabulousWarning = false
+	# 
+	#Show colourful debug information while the F3-Menu is open.
+	enableRainbowDebug = false
 
 	# 
 	#Settings for the Goggle Overlay
@@ -117,3 +117,4 @@
 		#Maximum volume modifier of Ambient noise
 		#Range: 0.0 ~ 1.0
 		ambientVolumeCap = 0.10000000149011612
+
