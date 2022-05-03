@@ -54,6 +54,7 @@ onEvent('jei.hide.items', event => {
         'create:zinc_nugget',
         'create:zinc_ingot',
 
+        'create:creative_crate',
         'create:handheld_worldshaper',
     ]);
 });

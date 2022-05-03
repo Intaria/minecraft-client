@@ -4,6 +4,7 @@ onEvent('jei.hide.items', event => {
         'exoticbirds:bird_book',
         'exoticbirds:hummingbird_feeder',
         'exoticbirds:eggshell',
+        'exoticbirds:egg_identifier',
 
         'exoticbirds:mystery_egg',
         'exoticbirds:phoenix_egg',
