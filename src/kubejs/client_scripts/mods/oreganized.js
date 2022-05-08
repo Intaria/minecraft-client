@@ -12,6 +12,6 @@ onEvent('jei.hide.items', event => {
         'oreganized:electrum_chestplate',
         'oreganized:electrum_leggings',
         'oreganized:electrum_boots',
-        'oreganized:silver_mirrow',
+        'oreganized:silver_mirror',
     ]);
 })

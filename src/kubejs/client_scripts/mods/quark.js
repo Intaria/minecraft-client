@@ -41,7 +41,8 @@ onEvent('jei.hide.items', event => {
         'quark:music_disc_rain',
         'quark:music_disc_ocean',
         'quark:music_disc_drips',
-
+        
+        /*
         'quark:red_corundum',
         'quark:red_corundum_pane',
         'quark:red_corundum_cluster',
@@ -78,6 +79,7 @@ onEvent('jei.hide.items', event => {
         'quark:black_corundum_pane',
         'quark:black_corundum_cluster',
         'quark:waxed_black_corundum',
+        */
 
         'quark:frog_spawn_egg',
         'quark:wraith_spawn_egg',
@@ -88,6 +90,7 @@ onEvent('jei.hide.items', event => {
         'quark:shiba_spawn_egg',
         'quark:toretoise_spawn_egg',
 
+        /*
         'quark:white_rune',
         'quark:orange_rune',
         'quark:magenta_rune',
@@ -106,6 +109,7 @@ onEvent('jei.hide.items', event => {
         'quark:black_rune',
         'quark:rainbow_rune',
         'quark:blank_rune',
+        */
 
         'quark:white_stool',
         'quark:orange_stool',
