@@ -1,5 +1,14 @@
 onEvent('jei.hide.items', event => {
     event.hide([
+        'orcz:orc_steel',
+        'orcz:heavyorchammer',
+        'orcz:orcteeth_tool_pickaxe',
+        'orcz:orcteeth_tool_axe',
+        'orcz:orcteeth_tool_sword',
+        'orcz:orcteeth_tool_shovel',
+        'orcz:orcteeth_tool_hoe',
+        'orcz:orcteethpaxel',
+
         'orcz:goblin_2sword_spawn_egg',
         'orcz:goblinshield_spawn_egg',
         'orcz:orcsavage_2sword_spawn_egg',

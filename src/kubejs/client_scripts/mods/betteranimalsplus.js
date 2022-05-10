@@ -7,6 +7,7 @@ onEvent('jei.hide.items', event => {
         'betteranimalsplus:moosehead_4',
 
         'betteranimalsplus:piranha_bucket',
+        'betteranimalsplus:flying_fish_bucket',
         'betteranimalsplus:horseshoecrab_bucket',
         'betteranimalsplus:lamprey_bucket',
         'betteranimalsplus:nautilus_bucket',

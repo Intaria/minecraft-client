@@ -9,5 +9,9 @@ onEvent('jei.hide.items', event => {
         'plus_the_end:endronium_chestplate',
         'plus_the_end:endronium_leggings',
         'plus_the_end:endronium_boots',
+
+        'plus_the_end:ender_skeleton_spawn_egg',
+        'plus_the_end:ender_fly_spawn_egg',
+        'plus_the_end:ender_bitten_spawn_egg',
     ]);
 })

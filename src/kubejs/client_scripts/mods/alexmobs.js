@@ -132,5 +132,9 @@ onEvent('jei.hide.items', event => {
         'alexsmobs:spawn_egg_bunfungus',
         'alexsmobs:spawn_egg_bison',
         'alexsmobs:spawn_egg_giant_squid',
+        'alexsmobs:spawn_egg_devils_hole_pupfish',
+        'alexsmobs:spawn_egg_catfish',
+        'alexsmobs:spawn_egg_flying_fish',
+        'alexsmobs:spawn_egg_skelewag',
     ]);
 });

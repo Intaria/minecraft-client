@@ -55,6 +55,7 @@ onEvent('jei.hide.items', event => {
         'create:zinc_ingot',
 
         'create:creative_crate',
+        'create:creative_motor',
         'create:handheld_worldshaper',
     ]);
 });
