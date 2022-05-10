@@ -8,6 +8,6 @@ onEvent('jei.hide.items', event => {
         'goblinsanddungeons:mimic_spawn_egg',
         'goblinsanddungeons:gobber_spawn_egg',
         'goblinsanddungeons:ogre_spawn_egg',
-        'goblinsanddungeons:gob_spawn_egg',
+        'goblinsanddungeons:goblin_king_spawn_egg',
     ]);
 })
