@@ -11,6 +11,6 @@ onEvent('jei.hide.items', event => {
         'toughasnails:leaf_boots',
         'toughasnails:leaf_leggings',
         'toughasnails:leaf_chestplate',
-        'toughasnails:leaf_helment',
+        'toughasnails:leaf_helmet',
     ]);
 })
