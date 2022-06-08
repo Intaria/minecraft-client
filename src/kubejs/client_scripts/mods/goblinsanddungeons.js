@@ -9,5 +9,11 @@ onEvent('jei.hide.items', event => {
         'goblinsanddungeons:gobber_spawn_egg',
         'goblinsanddungeons:ogre_spawn_egg',
         'goblinsanddungeons:goblin_king_spawn_egg',
+        
+        'goblinsanddungeons:staff_amethyst',
+        'goblinsanddungeons:ring_of_health',
+        'goblinsanddungeons:ring_of_stealth',
+        'goblinsanddungeons:ring_of_experience',
+        'goblinsanddungeons:ring_of_glory',
     ]);
 })

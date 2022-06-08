@@ -8,6 +8,7 @@ onEvent('jei.hide.items', event => {
         'orcz:orcteeth_tool_shovel',
         'orcz:orcteeth_tool_hoe',
         'orcz:orcteethpaxel',
+        'orcz:skullwandorc',
 
         'orcz:goblin_2sword_spawn_egg',
         'orcz:goblinshield_spawn_egg',
