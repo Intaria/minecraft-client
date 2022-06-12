@@ -368,6 +368,7 @@ onEvent('jei.hide.items', event => {
         'create:creative_crate',
         'create:creative_motor',
         'create:creative_blaze_cake',
+        'create:creative_fluid_tank',
         'create:handheld_worldshaper',
     ]);
 });
