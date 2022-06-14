@@ -1,5 +1,5 @@
 onEvent('jei.hide.items', event => {
-    event.hide([
-        'dynamictrees:staff',
-    ])
+    event.hide(
+        Item.of('dynamictrees:staff').ignoreNBT()
+    );
 });
