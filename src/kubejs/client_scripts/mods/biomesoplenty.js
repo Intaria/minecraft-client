@@ -1,6 +1,5 @@
 onEvent('jei.hide.items', event => {
     event.hide([
-        'biomesoplenty:blood',
         'biomesoplenty:blood_bucket',
         'biomesoplenty:hair',
         'biomesoplenty:flesh',
@@ -13,3 +12,7 @@ onEvent('jei.hide.items', event => {
         'biomesoplenty:origin_hedge',
     ])
 })
+
+onEvent('jei.hide.fluids', event => {   
+    event.hide('biomesoplenty:blood');
+});
