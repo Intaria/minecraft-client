@@ -72,6 +72,8 @@ onEvent('jei.hide.items', event => {
         'gemsandcrystals:quartz_leggings',
         'gemsandcrystals:quartz_boots',
 
+        'gemsandcrystals:amethyst_ore',
+        'gemsandcrystals:deepslate_amethyst_ore',
         'gemsandcrystals:quartz_ore',
         'gemsandcrystals:deepslate_quartz_ore',
     ])
