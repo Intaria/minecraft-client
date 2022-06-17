@@ -11,6 +11,7 @@ onEvent('jei.hide.items', event => {
         'gemsandcrystals:ruby_axe',
         'gemsandcrystals:ruby_leggings',
         'gemsandcrystals:ruby_boots',
+        'gemsandcrystals:ruby_horse_armor',
 
         'gemsandcrystals:sapphire_axe',
         'gemsandcrystals:sapphire_hoe',
@@ -23,6 +24,7 @@ onEvent('jei.hide.items', event => {
         'gemsandcrystals:sapphire_axe',
         'gemsandcrystals:sapphire_leggings',
         'gemsandcrystals:sapphire_boots',
+        'gemsandcrystals:sapphire_horse_armor',
 
         'gemsandcrystals:emerald_axe',
         'gemsandcrystals:emerald_hoe',
@@ -35,6 +37,7 @@ onEvent('jei.hide.items', event => {
         'gemsandcrystals:emerald_axe',
         'gemsandcrystals:emerald_leggings',
         'gemsandcrystals:emerald_boots',
+        'gemsandcrystals:emerald_horse_armor',
 
         'gemsandcrystals:topaz_axe',
         'gemsandcrystals:topaz_hoe',
@@ -47,6 +50,7 @@ onEvent('jei.hide.items', event => {
         'gemsandcrystals:topaz_axe',
         'gemsandcrystals:topaz_leggings',
         'gemsandcrystals:topaz_boots',
+        'gemsandcrystals:topaz_horse_armor',
 
         'gemsandcrystals:amethyst_axe',
         'gemsandcrystals:amethyst_hoe',
@@ -59,6 +63,7 @@ onEvent('jei.hide.items', event => {
         'gemsandcrystals:amethyst_axe',
         'gemsandcrystals:amethyst_leggings',
         'gemsandcrystals:amethyst_boots',
+        'gemsandcrystals:amethyst_horse_armor',
 
         'gemsandcrystals:quartz_axe',
         'gemsandcrystals:quartz_hoe',
@@ -71,6 +76,7 @@ onEvent('jei.hide.items', event => {
         'gemsandcrystals:quartz_axe',
         'gemsandcrystals:quartz_leggings',
         'gemsandcrystals:quartz_boots',
+        'gemsandcrystals:quartz_horse_armor',
 
         'gemsandcrystals:amethyst_ore',
         'gemsandcrystals:deepslate_amethyst_ore',
