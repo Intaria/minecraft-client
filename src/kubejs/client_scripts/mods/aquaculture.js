@@ -22,6 +22,7 @@ onEvent('jei.hide.items', event => {
         'aquaculture:neptunium_axe',
         'aquaculture:neptunium_shovel',
         'aquaculture:neptunium_pickaxe',
+        'aquaculture:neptunium_fishing_rod',
         'aquaculture:neptunes_bounty',
 
         'aquaculture:box_turtle_spawn_egg',
