@@ -8,6 +8,7 @@ onEvent('jei.hide.items', event => {
         'drinkbeer:recipe_board_beer_mug_haars_icey_pale_lager',
         'drinkbeer:recipe_board_beer_mug_pumpkin_kvass',
         'drinkbeer:recipe_board_beer_mug_night_howl_kvass',
+        'drinkbeer:recipe_board_beer_mug_frothy_pink_eggnog',
         'drinkbeer:recipe_board_package',
     ]);
 })
