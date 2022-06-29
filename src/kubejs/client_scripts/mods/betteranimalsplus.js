@@ -15,6 +15,12 @@ onEvent('jei.hide.items', event => {
         'betteranimalsplus:bottled_dragonfly',
         'betteranimalsplus:horseshoe_crab_blood',
 
+        'betteranimalsplus:crab_bucket',
+        'betteranimalsplus:jellyfish_bucket',
+        'betteranimalsplus:eel_freshwater_bucket',
+        'betteranimalsplus:eel_saltwater_bucket',
+        'betteranimalsplus:barracuda_bucket',
+
         'betteranimalsplus:lammergeier_spawn_egg',
         'betteranimalsplus:tarantula_spawn_egg',
         'betteranimalsplus:pheasant_spawn_egg',

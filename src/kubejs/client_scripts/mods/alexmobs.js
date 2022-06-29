@@ -61,6 +61,18 @@ onEvent('jei.hide.items', event => {
         //убрать до замены рецепта из волоса другого медведя
         'alexsmobs:falconry_glove',
 
+        'alexsmobs:lobster_bucket',
+        'alexsmobs:blobfish_bucket',
+        'alexsmobs:platypus_bucket',
+        'alexsmobs:terrapin_bucket',
+        'alexsmobs:comb_jelly_bucket',
+        'alexsmobs:cosmic_cod_bucket',
+        'alexsmobs:devils_hole_pupfish_bucket',
+        'alexsmobs:small_catfish_bucket',
+        'alexsmobs:medium_catfish_bucket',
+        'alexsmobs:large_catfish_bucket',
+        'alexsmobs:flying_fish_bucket',
+
         'alexsmobs:spawn_egg_grizzly_bear',
         'alexsmobs:spawn_egg_roadrunner',
         'alexsmobs:spawn_egg_bone_serpent',
