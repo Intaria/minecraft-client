@@ -6,6 +6,13 @@ onEvent('jei.hide.items', event => {
         'exoticbirds:eggshell',
         'exoticbirds:egg_identifier',
 
+        'exoticbirds:cassowary_egg',
+        'exoticbirds:hummingbird_egg',
+        'exoticbirds:ostrich_egg',
+        'exoticbirds:roadrunner_egg',
+        'exoticbirds:gull_egg',
+        'exoticbirds:toucan_egg',
+
         'exoticbirds:mystery_egg',
         'exoticbirds:phoenix_egg',
         'exoticbirds:cloud_phoenix_egg',
