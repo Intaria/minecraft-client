@@ -49,6 +49,11 @@ onEvent('jei.hide.items', event => {
         'alexsmobs:novelty_hat',
         'alexsmobs:skelewag_sword',
         'alexsmobs:pupfish_locator',
+        'alexsmobs:fish_bones',
+
+        'alexsmobs:banner_pattern_bear',
+        'alexsmobs:banner_pattern_new_mexico',
+        'alexsmobs:banner_pattern_brazil',
 
         'alexsmobs:gustmaker',
         'alexsmobs:capsid',
