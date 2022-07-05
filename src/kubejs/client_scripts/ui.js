@@ -78,5 +78,5 @@ onEvent('ui.main_menu', event => {
             l.y = ui.height - 21;
         });
     })
-  })
+})
 
