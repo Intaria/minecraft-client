@@ -13,7 +13,6 @@ onEvent('jei.hide.items', event => {
         'createaddition:rolling_mill',
         'createaddition:spool',
         'createaddition:tesla_coil',
-        'createaddition:zinc_sheet',
 
         'createaddition:creative_energy',
     ]);
