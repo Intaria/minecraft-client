@@ -8,11 +8,6 @@ onEvent('jei.hide.items', event => {
         'toughasnails:water_canteen',
         'toughasnails:water_purifier',
 
-        'toughasnails:leaf_boots',
-        'toughasnails:leaf_leggings',
-        'toughasnails:leaf_chestplate',
-        'toughasnails:leaf_helmet',
-
         'toughasnails:melon_juice',
     ]);
 })

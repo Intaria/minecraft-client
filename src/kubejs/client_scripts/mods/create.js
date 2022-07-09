@@ -19,6 +19,7 @@ onEvent('jei.hide.items', event => {
         'create:brass_casing',
         'create:brass_block',
         'create:brass_lantern',
+        'create:brass_ladder',
         'create:crafter_slot_cover',
         'create:crushed_zinc_ore',
         'create:deployer',
@@ -61,6 +62,8 @@ onEvent('jei.hide.items', event => {
         'create:deepslate_zinc_ore',
         'create:raw_zinc_block',
         'create:zinc_block',
+        'create:display_link',
+        'create:display_board',
 
         'create:cut_granite',
         'create:cut_granite_stairs',
@@ -370,5 +373,22 @@ onEvent('jei.hide.items', event => {
         'create:creative_blaze_cake',
         'create:creative_fluid_tank',
         'create:handheld_worldshaper',
+
+        //Временно убираем, пока не появятся законченные поезда
+        'create:track',
+        'create:railway_casing',
+        'create:schedule',
+        'create:track_station',
+        'create:track_signal',
+        'create:track_observer',
+        'create:controls',
+        'create:train_door',
+        'create:train_trapdoor',
+
+        //Временно убираем, пока не придумаем, как внедрить роз кварц (мб из кварка)
+        'create:rose_quartz_lamp',
+        'create:rose_quartz_block',
+        'create:rose_quartz_tiles',
+        'create:small_rose_quartz_tiles',
     ]);
 });
