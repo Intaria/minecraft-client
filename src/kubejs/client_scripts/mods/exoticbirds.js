@@ -1,6 +1,7 @@
 //МБ в будущем выпилить что-то еще
 onEvent('jei.hide.items', event => {
     event.hide([
+        'exoticbirds:nest',
         'exoticbirds:bird_book',
         'exoticbirds:hummingbird_feeder',
         'exoticbirds:eggshell',
