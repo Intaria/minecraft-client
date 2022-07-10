@@ -3,7 +3,6 @@ onEvent('jei.hide.items', event => {
     event.hide([
         'create:andesite_funnel',
         'create:andesite_tunnel',
-        'create:attribute_filter',
         'create:belt_connector',
         'create:blaze_burner',
         'create:blaze_cake',
@@ -212,6 +211,9 @@ onEvent('jei.hide.items', event => {
         //Пока не появятся расцветки
         'create:tiled_glass',
         'create:framed_glass',
+        'create:framed_glass_pane',
+        'create:horizontal_framed_glass_pane',
+        'create:vertical_framed_glass_pane',
         'create:horizontal_framed_glass',
         'create:vertical_framed_glass',
         'create:tiled_glass_pane',
@@ -219,4 +221,9 @@ onEvent('jei.hide.items', event => {
         'create:horizontal_framed_tiled_glass',
         'create:vertical_framed_tiled_glass',
     ]);
+
+    //мб в будущем вернуть, но х3
+    event.hide(
+        Item.of('create:attribute_filter').ignoreNBT()
+    );
 });

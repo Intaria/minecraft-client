@@ -1,6 +1,10 @@
 onEvent('jei.hide.items', event => {
     event.hide([
         'create_confectionery:little_gingerbread_man_spawn_egg',
-        'create_confectionery:the_bright_side',
     ])
+
+    //х3 почему, но не удаляет
+    event.hide(
+        Item.of('create_confectionery:the_bright_side').ignoreNBT()
+    );
 });

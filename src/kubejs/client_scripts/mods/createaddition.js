@@ -3,7 +3,6 @@ onEvent('jei.hide.items', event => {
         'createaddition:brass_rod',
         'createaddition:copper_rod',
         'createaddition:copper_wire',
-        'createaddition:diamond_grit',
         'createaddition:diamond_grit_sandpaper',
         'createaddition:gold_rod',
         'createaddition:gold_wire',
