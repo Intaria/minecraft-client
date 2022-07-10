@@ -203,21 +203,20 @@ onEvent('jei.hide.items', event => {
         'create:creative_fluid_tank',
         'create:handheld_worldshaper',
 
-        //Временно убираем, пока не появятся законченные поезда
-        'create:track',
-        'create:railway_casing',
-        'create:schedule',
-        'create:track_station',
-        'create:track_signal',
-        'create:track_observer',
-        'create:controls',
-        'create:train_door',
-        'create:train_trapdoor',
-
         //Временно убираем, пока не придумаем, как внедрить роз кварц (мб из кварка)
         'create:rose_quartz_lamp',
         'create:rose_quartz_block',
         'create:rose_quartz_tiles',
         'create:small_rose_quartz_tiles',
+
+        //Пока не появятся расцветки
+        'create:tiled_glass',
+        'create:framed_glass',
+        'create:horizontal_framed_glass',
+        'create:vertical_framed_glass',
+        'create:tiled_glass_pane',
+        'create:framed_tiled_glass',
+        'create:horizontal_framed_tiled_glass',
+        'create:vertical_framed_tiled_glass',
     ]);
 });
