@@ -53,7 +53,7 @@
 		max_rows = 255
 		#Offset on y-axis.
 		#Range: > 0
-		offset_y = 3
+		offset_y = 14
 		#Allow effect renderer to fall back to a more compact version (when available) if not enough screen space exists. Otherwise effect widgets might run off-screen.
 		allow_fallback = false
 		#Offset on x-axis.
