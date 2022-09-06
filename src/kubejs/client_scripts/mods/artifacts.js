@@ -2,7 +2,6 @@
 
 onEvent('jei.hide.items', event => {
     event.hide([
-        'artifacts:mimic_spawn_egg',
         'artifacts:umbrella',
         'artifacts:eternal_steak',
         'artifacts:everlasting_beef',
@@ -17,5 +16,7 @@ onEvent('jei.hide.items', event => {
         'artifacts:fire_gauntlet',
         'artifacts:vampiric_glove',
         'artifacts:whoopee_cushion',
+
+        'artifacts:mimic_spawn_egg',
     ])
 });

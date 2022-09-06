@@ -71,9 +71,6 @@ onEvent('jei.hide.items', event => {
         'alexsmobs:vine_lasso',
         'alexsmobs:rocky_chestplate',
 
-        //убрать до замены рецепта из волоса другого медведя
-        'alexsmobs:falconry_glove',
-
         'alexsmobs:lobster_bucket',
         'alexsmobs:blobfish_bucket',
         'alexsmobs:platypus_bucket',
