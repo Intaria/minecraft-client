@@ -1,15 +1,10 @@
 //TODO: отключить все генерируемые блоки мира
 onEvent('jei.hide.items', event => {
     event.hide([
-        'create:andesite_funnel',
-        'create:andesite_tunnel',
-        'create:belt_connector',
         'create:blaze_cake',
         'create:blaze_cake_base',
         'create:blaze_casing',
         'create:brass_hand',
-        'create:brass_funnel',
-        'create:brass_tunnel',
         'create:crafter_slot_cover',
         'create:deployer',
         'create:empty_schematic',
@@ -17,7 +12,6 @@ onEvent('jei.hide.items', event => {
         'create:haunted_bell',
         'create:item_vault',
         'create:linked_controller',
-        'create:mechanical_arm',
         'create:mechanical_drill',
         'create:mechanical_crafter',
         'create:mechanical_harvester',
@@ -25,22 +19,15 @@ onEvent('jei.hide.items', event => {
         'create:mechanical_saw',
         'create:peculiar_bell',
         'create:potato_cannon',
+
         'create:polished_rose_quartz',
-        'create:precision_mechanism',
-        'create:pulse_repeater',
-        'create:pulse_extender',
-        'create:redstone_link',
         'create:red_sand_paper',
         'create:rose_quartz',
-        'create:rotation_speed_controller',
         'create:sand_paper',
-        'create:sequenced_gearshift',
         'create:schematicannon',
         'create:schematic_and_quill',
         'create:schematic_table',
-        'create:smart_chute',
-        'create:speedometer',
-        'create:stressometer',
+
         'create:wand_of_symmetry',
         'create:display_link',
         'create:display_board',
@@ -219,9 +206,4 @@ onEvent('jei.hide.items', event => {
         'create:horizontal_framed_tiled_glass',
         'create:vertical_framed_tiled_glass',
     ]);
-
-    //мб в будущем вернуть, но х3
-    event.hide(
-        Item.of('create:attribute_filter').ignoreNBT()
-    );
 });
