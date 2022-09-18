@@ -14,7 +14,7 @@ onEvent('jei.hide.items', event => {
         'naturalist:butterfly_spawn_egg',
         'naturalist:canary_spawn_egg',
         'naturalist:cardinal_spawn_egg',
-        'naturalist:catterpillar_spawn_egg',
+        'naturalist:caterpillar_spawn_egg',
         'naturalist:coral_snake_spawn_egg',
         'naturalist:deer_spawn_egg',
         'naturalist:elephant_spawn_egg',
