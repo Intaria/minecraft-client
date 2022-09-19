@@ -3,6 +3,7 @@ onEvent('jei.hide.items', event => {
         'ecologics:pot',
         'ecologics:crab_claw',
         'ecologics:crab_meat',
+        'ecologics:thin_ice',
 
         'ecologics:coconut_crab_spawn_egg',
         'ecologics:camel_spawn_egg',
