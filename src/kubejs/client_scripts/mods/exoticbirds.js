@@ -13,6 +13,7 @@ onEvent('jei.hide.items', event => {
         'exoticbirds:roadrunner_egg',
         'exoticbirds:gull_egg',
         'exoticbirds:toucan_egg',
+        'exoticbirds:penguin_egg',
 
         'exoticbirds:mystery_egg',
         'exoticbirds:phoenix_egg',
