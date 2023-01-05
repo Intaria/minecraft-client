@@ -28,6 +28,6 @@ JEIEvents.hideItems(event => {
         'cataclysm:ender_guardian_spawn_egg',
         'cataclysm:endermaptera_spawn_egg',
         'cataclysm:ignis_spawn_egg',
-        'ignited_revenant_spawn_egg',
+        'cataclysm:ignited_revenant_spawn_egg',
     ])
 });

@@ -1,7 +1,7 @@
 //МБ в будущем выпилить что-то еще
 JEIEvents.hideItems(event => {
     event.hide([
-        /*
+
         'nethers_exoticism:kiwano_helmet',
         'nethers_exoticism:kiwano_chestplate',
         'nethers_exoticism:kiwano_leggings',
@@ -13,12 +13,12 @@ JEIEvents.hideItems(event => {
         'nethers_exoticism:kiwano_hoe',
         'nethers_exoticism:ramboutan_helmet',
         'nethers_exoticism:rambutan_shield',
-        */
 
         'nethers_exoticism:moloch_in_a_bucket',
         'nethers_exoticism:moloch_spawn_egg',
     ])
 
+    /*
     event.hide(
         Item.of('nethers_exoticism:kiwano_helmet').ignoreNBT(),
         Item.of('nethers_exoticism:kiwano_chestplate').ignoreNBT(),
@@ -32,4 +32,5 @@ JEIEvents.hideItems(event => {
         Item.of('nethers_exoticism:ramboutan_helmet').ignoreNBT(),
         Item.of('nethers_exoticism:rambutan_shield').ignoreNBT()
     );
+    */
 })
