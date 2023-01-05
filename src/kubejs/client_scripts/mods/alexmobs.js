@@ -76,6 +76,8 @@ JEIEvents.hideItems(event => {
         'alexsmobs:elastic_tendon',
         'alexsmobs:tendon_whip',
         'alexsmobs:unsettling_kimono',
+        'alexsmobs:skreecher_soul',
+        'alexsmobs:sculk_boomer',
         
 
 
