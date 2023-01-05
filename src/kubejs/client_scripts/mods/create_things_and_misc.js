@@ -12,6 +12,9 @@ JEIEvents.hideItems(event => {
         'create_things_and_misc:spout_gun',
         'create_things_and_misc:spout_gun_water',
         'create_things_and_misc:spout_gun_lava',
+        'create_things_and_misc:spout_gun_chocolate',
+        'create_things_and_misc:spout_gun_honey',
+        'create_things_and_misc:spout_gun_slime',
         'create_things_and_misc:neon_tube',
         'create_things_and_misc:brass_speaker',
         'create_things_and_misc:powdered_obsidian_block',
@@ -25,4 +28,5 @@ JEIEvents.hideItems(event => {
         'create_things_and_misc:vibration_mechanism',
         'create_things_and_misc:mending_rune',
     ])
+
 });

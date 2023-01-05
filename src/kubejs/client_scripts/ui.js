@@ -1,3 +1,4 @@
+/*
 onEvent('ui.main_menu', event => {
     event.replace(ui => {
         ui.background("intaria:textures/bg.png");
@@ -79,4 +80,4 @@ onEvent('ui.main_menu', event => {
         });
     })
 })
-
+*/

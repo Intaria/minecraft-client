@@ -67,5 +67,10 @@ JEIEvents.hideItems(event => {
         'minecraft:zombie_horse_spawn_egg',
         'minecraft:zombie_villager_spawn_egg',
         'minecraft:zombified_piglin_spawn_egg',
+
+        'minecraft:allay_spawn_egg',
+        'minecraft:frog_spawn_egg',
+        'minecraft:tadpole_spawn_egg',
+        'minecraft:warden_spawn_egg',
     ]);
 })

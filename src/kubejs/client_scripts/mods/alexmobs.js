@@ -39,9 +39,11 @@ JEIEvents.hideItems(event => {
         'alexsmobs:void_worm_beak',
         'alexsmobs:void_worm_effigy',
         'alexsmobs:dimensional_carver',
+        'alexsmobs:shattered_dimensional_carver',
         'alexsmobs:serrated_shark_tooth',
         'alexsmobs:frilled_shark_bucket',
         'alexsmobs:mimic_octopus_bucket',
+        'alexsmobs:mudskipper_bucket',
         'alexsmobs:straddle_helmet',
         'alexsmobs:straddle_saddle',
         'alexsmobs:straddlite_block',
@@ -64,6 +66,17 @@ JEIEvents.hideItems(event => {
         'alexsmobs:shrimp_fried_rice',
         'alexsmobs:falconry_hood',
         'alexsmobs:squid_grapple',
+        'alexsmobs:stink_ray',
+        'alexsmobs:banana_slug_slime',
+        'alexsmobs:banana_slug_slime_block',
+        'alexsmobs:crystalized_banana_slug_mucus',
+        'alexsmobs:farseer_arm',
+        'alexsmobs:transmutation_table',
+        'alexsmobs:ghostly_pickaxe',
+        'alexsmobs:elastic_tendon',
+        'alexsmobs:tendon_whip',
+        'alexsmobs:unsettling_kimono',
+        
 
 
         //убрать до замены рецепта
@@ -158,5 +171,17 @@ JEIEvents.hideItems(event => {
         'alexsmobs:spawn_egg_catfish',
         'alexsmobs:spawn_egg_flying_fish',
         'alexsmobs:spawn_egg_skelewag',
+        'alexsmobs:spawn_egg_banana_slug',
+        'alexsmobs:spawn_egg_skunk',
+        'alexsmobs:spawn_egg_blue_jay',
+        'alexsmobs:spawn_egg_rain_frog',
+        'alexsmobs:spawn_egg_potoo',
+        'alexsmobs:spawn_egg_mudskipper',
+        'alexsmobs:spawn_egg_rhinoceros',
+        'alexsmobs:spawn_egg_sugar_glider',
+        'alexsmobs:spawn_egg_farseer',
+        'alexsmobs:spawn_egg_skreecher',
+        'alexsmobs:spawn_egg_underminer',
+        'alexsmobs:spawn_egg_murmur',
     ]);
 });

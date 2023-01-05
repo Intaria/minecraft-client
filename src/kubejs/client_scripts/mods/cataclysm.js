@@ -19,6 +19,8 @@ JEIEvents.hideItems(event => {
         'cataclysm:monstrous_helm',
         'cataclysm:void_core',
         'cataclysm:gauntlet_of_guard',
+        'cataclysm:the_incinerator',
+        'cataclysm:ignitium_elytra_chestplate',
 
         'cataclysm:ender_golem_spawn_egg',
         'cataclysm:netherite_monstrosity_spawn_egg',
@@ -26,5 +28,6 @@ JEIEvents.hideItems(event => {
         'cataclysm:ender_guardian_spawn_egg',
         'cataclysm:endermaptera_spawn_egg',
         'cataclysm:ignis_spawn_egg',
+        'ignited_revenant_spawn_egg',
     ])
 });

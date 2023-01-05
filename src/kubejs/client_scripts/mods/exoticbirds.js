@@ -14,6 +14,7 @@ JEIEvents.hideItems(event => {
         'exoticbirds:gull_egg',
         'exoticbirds:toucan_egg',
         'exoticbirds:penguin_egg',
+        'exoticbirds:bluejay_egg',
 
         'exoticbirds:mystery_egg',
         'exoticbirds:phoenix_egg',

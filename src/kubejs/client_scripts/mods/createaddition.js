@@ -11,6 +11,8 @@ JEIEvents.hideItems(event => {
         'createaddition:rolling_mill',
         'createaddition:spool',
         'createaddition:tesla_coil',
+        'createaddition:barbed_wire',
+        'createaddition:straw',
 
         'createaddition:creative_energy',
     ]);
