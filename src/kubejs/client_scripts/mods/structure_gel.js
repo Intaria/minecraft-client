@@ -1,4 +1,4 @@
-onEvent('jei.hide.items', event => {
+JEIEvents.hideItems(event => {
     event.hide([
         'structure_gel:red_gel',
         'structure_gel:blue_gel',

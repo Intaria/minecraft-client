@@ -1,4 +1,4 @@
-onEvent('jei.hide.items', event => {
+JEIEvents.hideItems(event => {
     event.hide([
         //TODO: эта группа убрана НА ВРЕМЯ, пока в моде все эти штуки доступны только через креатив
         'cataclysm:enderite_block',

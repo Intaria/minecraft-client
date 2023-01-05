@@ -1,4 +1,4 @@
-onEvent('jei.hide.items', event => {
+JEIEvents.hideItems(event => {
     event.hide([
         'plus_the_end:endronium_sword',
         'plus_the_end:endronium_pickaxe',

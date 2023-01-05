@@ -1,4 +1,4 @@
-onEvent('jei.hide.items', event => {
+JEIEvents.hideItems(event => {
     event.hide([
         'quark:beetroot_crate',
         'quark:carrot_crate',

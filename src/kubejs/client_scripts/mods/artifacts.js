@@ -1,6 +1,6 @@
 //TODO: modify loot table for complete remove this items
 
-onEvent('jei.hide.items', event => {
+JEIEvents.hideItems(event => {
     event.hide([
         'artifacts:umbrella',
         'artifacts:eternal_steak',

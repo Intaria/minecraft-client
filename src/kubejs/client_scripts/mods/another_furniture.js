@@ -1,4 +1,4 @@
-onEvent('jei.hide.items', event => {
+JEIEvents.hideItems(event => {
     event.hide([
         'another_furniture:white_stool',
         'another_furniture:orange_stool',

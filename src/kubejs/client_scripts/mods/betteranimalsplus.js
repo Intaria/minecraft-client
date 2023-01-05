@@ -1,4 +1,4 @@
-onEvent('jei.hide.items', event => {
+JEIEvents.hideItems(event => {
     event.hide([
         //УБрать до изменения лут-тейбла, чтобы эти головы падали с монстров алекс-мобс
         'betteranimalsplus:moosehead_1',

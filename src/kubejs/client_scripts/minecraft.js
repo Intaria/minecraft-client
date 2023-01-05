@@ -1,4 +1,4 @@
-onEvent('jei.hide.items', event => {   
+JEIEvents.hideItems(event => {   
     event.hide([
         'minecraft:elytra',
         'minecraft:bedrock',
@@ -16,7 +16,7 @@ onEvent('jei.hide.items', event => {
     );
 });
 
-onEvent('jei.hide.fluids', event => {   
+JEIEvents.hideFluids(event => {  
     //event.hide('minecraft:lava');
     //event.hide('minecraft:milk');
 });

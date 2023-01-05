@@ -1,9 +1,9 @@
-onEvent('client.debug_info.left', event => {
+ClientEvents.leftDebugInfo(event => {
     let lines = event.getLines()
     lines.clear()
 })
 
-onEvent('client.debug_info.right', event => {
+ClientEvents.rightDebugInfo(event => {
     let lines = event.getLines()
     lines.clear()
 })

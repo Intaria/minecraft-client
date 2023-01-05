@@ -1,4 +1,4 @@
-onEvent('jei.hide.items', event => {
+JEIEvents.hideItems(event => {
     event.hide([
         'aquaculture:fish_fillet_cooked',
         'aquaculture:fish_fillet_raw',

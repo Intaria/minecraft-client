@@ -1,4 +1,4 @@
-onEvent('jei.hide.items', event => {
+JEIEvents.hideItems(event => {
     event.hide([
         'create_confectionery:little_gingerbread_man_spawn_egg',
     ])

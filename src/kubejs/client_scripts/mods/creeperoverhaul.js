@@ -1,4 +1,4 @@
-onEvent('jei.hide.items', event => {
+JEIEvents.hideItems(event => {
     event.hide([
         'creeperoverhaul:jungle_creeper_spawn_egg',
         'creeperoverhaul:bamboo_creeper_spawn_egg',

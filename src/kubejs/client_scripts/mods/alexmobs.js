@@ -1,5 +1,5 @@
 //МБ в будущем выпилить что-то еще
-onEvent('jei.hide.items', event => {
+JEIEvents.hideItems(event => {
     event.hide([
         'alexsmobs:animal_dictionary',
         'alexsmobs:bear_fur',

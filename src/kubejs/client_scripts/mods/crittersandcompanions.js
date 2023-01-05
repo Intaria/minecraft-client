@@ -1,4 +1,4 @@
-onEvent('jei.hide.items', event => {
+JEIEvents.hideItems(event => {
     event.hide([
         'crittersandcompanions:pearl_necklace_1',
         'crittersandcompanions:pearl_necklace_2',

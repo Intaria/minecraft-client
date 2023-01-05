@@ -1,5 +1,5 @@
 //TODO: отключить все генерируемые блоки мира
-onEvent('jei.hide.items', event => {
+JEIEvents.hideItems(event => {
     event.hide([
         'create:blaze_cake',
         'create:blaze_cake_base',

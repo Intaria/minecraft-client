@@ -1,4 +1,4 @@
-onEvent('jei.hide.items', event => {
+JEIEvents.hideItems(event => {
     event.hide([
         //Убрал, пока выглядит коряво
         'create_things_and_misc:speed_25',

@@ -1,4 +1,4 @@
-onEvent('jei.hide.items', event => {
+JEIEvents.hideItems(event => {
     event.hide([
         'minecraft:axolotl_spawn_egg',
         'minecraft:bat_spawn_egg',
