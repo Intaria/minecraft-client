@@ -1,0 +1,17 @@
+JEIEvents.hideItems(event => {
+    event.hide([
+        'ogres:ogre_armor_helmet',
+        'ogres:ogre_armor_leggings',
+        'ogres:ogre_armor_boots',
+        'ogres:ogre_armor_chestplate',
+        'ogres:ogre_shovel',
+        'ogres:ogre_pickaxe',
+        'ogres:ogre_axe',
+        'ogres:ogre_sword',
+        'ogres:ogre_hoe',
+
+        'ogres:ogre_vil_1_spawn_egg',
+        'ogres:ogre_vil_ran_spawn_egg', 
+        'ogres:ogre_vil_2_spawn_egg',
+    ]);
+})
