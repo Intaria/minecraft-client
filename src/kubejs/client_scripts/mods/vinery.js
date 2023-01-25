@@ -21,6 +21,7 @@ JEIEvents.hideItems(event => {
         'vinery:grass_slab',
         'vinery:stackable_log',
         'vinery:faucet',
+        'vinery:apple_crate',
 
         'vinery:vinemaker_apron',
         'vinery:vinemaker_gloves',

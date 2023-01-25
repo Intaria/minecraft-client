@@ -12,7 +12,7 @@ JEIEvents.hideItems(event => {
     ]);
 
     event.hide(
-        Item.of('minecraft:enchanted_book').ignoreNBT()
+        Item.of('minecraft:enchanted_book')
     );
 });
 

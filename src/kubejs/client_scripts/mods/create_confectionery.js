@@ -5,6 +5,6 @@ JEIEvents.hideItems(event => {
 
     //х3 почему, но не удаляет
     event.hide(
-        Item.of('create_confectionery:the_bright_side').ignoreNBT()
+        Item.of('create_confectionery:the_bright_side')
     );
 });
