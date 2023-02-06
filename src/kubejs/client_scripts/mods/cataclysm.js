@@ -21,6 +21,7 @@ JEIEvents.hideItems(event => {
         'cataclysm:gauntlet_of_guard',
         'cataclysm:the_incinerator',
         'cataclysm:ignitium_elytra_chestplate',
+        'cataclysm:altar_of_fire',
 
         'cataclysm:ender_golem_spawn_egg',
         'cataclysm:netherite_monstrosity_spawn_egg',

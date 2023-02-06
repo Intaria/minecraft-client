@@ -37,6 +37,13 @@ JEIEvents.hideItems(event => {
         'vinery:cooking_pot',
         'vinery:apple_pie',
         'vinery:apple_pie_slice',
+        'vinery:dough',
+        'vinery:chocolate_bread',
+        'vinery:toast',
+        'vinery:donut',
+        'vinery:milk_bread',
+        'vinery:crusty_bread',
+        'vinery:bread_slice',
 
         'vinery:mule_spawn_egg',
         'vinery:wandering_winemaker_spawn_egg',

@@ -1,5 +1,8 @@
 JEIEvents.hideItems(event => {
     event.hide([
+        //Временно, пока не разберемся, нахера он
+        'create_things_and_misc:blaze_ballon',
+
         //Убрал, пока выглядит коряво
         'create_things_and_misc:speed_25',
         'create_things_and_misc:speed_50',
