@@ -1,5 +1,0 @@
-{
-    "conditions": { "not": "guiretextures:dark_mode" },
-    "fallbacks": "assets/fabric/textures/gui/creative_buttons_dark_mode.png"
-}
-

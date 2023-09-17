@@ -1,5 +1,0 @@
-{
-    "conditions": { "not": "guiretextures:remove_realms_notifications" },
-    "fallbacks": "assets/realms/textures/gui/realms/news_notification_mainscreen_invis.png"
-}
-
