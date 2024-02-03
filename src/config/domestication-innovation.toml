@@ -1,0 +1,81 @@
+
+[general]
+	#true if wolves, cats, parrots, foxes, axolotls, etc can be set to wander, sit or follow
+	trinary_command_system = true
+	#true if axolotls are fully tameable (axolotl must be tamed with tropical fish)
+	tameable_axolotls = true
+	#true if horses, donkeys, llamas, etc can be given enchants, beds, etc
+	tameable_horse = true
+	#true if foxes are fully tameable (fox must be tamed via breeding)
+	tameable_fox = true
+	#true if rabbits are fully tameable (rabbit must be tamed with carrots)
+	tameable_rabbit = true
+	#true if frogs are fully tameable (rabbit must be tamed with spider eyes)
+	tameable_frog = true
+	#true if attacks do not register on pets from their owners and go through them to attack a mob behind them
+	swing_through_pets = true
+	#true if mobs can respawn in pet beds the next morning after they die
+	pet_bed_respawns = true
+	#true if collar tag functionality are enabled. If this is disabled, there is no way to enchant mobs!
+	collar_tags = true
+	#true if rabbits scare ravagers like they used to do
+	rabbits_scare_ravagers = true
+	#true if animal tamer villagers are enabled. Their work station is a pet bed
+	animal_tamer_villager = true
+
+[loot]
+	#true if pet curse enchantments should only appear in loot, and not the enchanting table.
+	pet_curse_enchantments_loot_only = true
+	#percent chance of woodland mansion loot table containing Vampire book:
+	#Range: 0.0 ~ 1.0
+	vampirism_loot_chance = 0.22
+	#percent chance of mineshaft loot table containing Ore Scenting book:
+	#Range: 0.0 ~ 1.0
+	ore_scenting_loot_chance = 0.15
+	#percent chance of ancient city loot table containing Muffled book:
+	#Range: 0.0 ~ 1.0
+	muffled_loot_chance = 0.19
+	#percent chance of nether fortress loot table containing Blazing Protection book:
+	#Range: 0.0 ~ 1.0
+	blazing_protection_loot_chance = 0.2
+
+[enchantments]
+	#true if health boost enchant is enabled, false if disabled
+	health_boost_enabled = true
+	#true if fireproof enchant is enabled, false if disabled
+	fireproof_enabled = true
+	#true if poison resistance enchant is enabled, false if disabled
+	poison_resistance_enabled = true
+	#true if speedster enchant is enabled, false if disabled
+	speedster_enabled = true
+	#true if frost fang enchant is enabled, false if disabled
+	frost_fang_enabled = true
+	#true if linked inventory enchant is enabled, false if disabled
+	linked_inventory_enabled = true
+	#true if health siphon enchant is enabled, false if disabled
+	health_siphon_enabled = true
+	#true if amphibious enchant is enabled, false if disabled
+	amphibious_enabled = true
+	#true if vampire enchant is enabled, false if disabled
+	vampire_enabled = true
+	#true if charisma enchant is enabled, false if disabled
+	charisma_enabled = true
+	#true if ore scenting enchant is enabled, false if disabled
+	ore_scenting_enabled = true
+	#true if gluttonous enchant is enabled, false if disabled
+	gluttonous_enabled = true
+	#true if intimidation enchant is enabled, false if disabled
+	intimidation_enabled = true
+	#true if muffled enchant is enabled, false if disabled
+	muffled_enabled = true
+	#true if blazing protection enchant is enabled, false if disabled
+	blazing_protection_enabled = true
+	#true if healing aura enchant is enabled, false if disabled
+	healing_aura_enabled = true
+	#true if rejuvenation enchant is enabled, false if disabled
+	rejuvenation_enabled = true
+	#true if infamy curse enchant is enabled, false if disabled
+	infamy_curse_enabled = true
+	#true if immaturity curse enchant is enabled, false if disabled
+	immaturity_curse_enabled = true
+

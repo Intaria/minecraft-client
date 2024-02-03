@@ -1,0 +1,6 @@
+#Mon Apr 03 04:40:11 GMT+07:00 2023
+ssptEnabled=true
+shadowFilterIterations=15
+DoFToggle=true
+contactShadowsEnabled=true
+SVGF_FILTER=true

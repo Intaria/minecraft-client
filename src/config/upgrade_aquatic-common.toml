@@ -1,0 +1,12 @@
+
+[generation]
+
+	[generation.structures]
+		#If Mossy Cobblestone and Stone Bricks are replaced with Kelpy Cobblestone and Stone Bricks in Ocean Ruins
+		"Kelpy Ocean Ruins" = true
+
+[mobs]
+	#The max height that deep ocean mobs can spawn at
+	#Range: 0 ~ 255
+	"Deep ocean mob max height" = 30
+

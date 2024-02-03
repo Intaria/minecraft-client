@@ -1,0 +1,5 @@
+
+[general]
+	#True if riding dragons should make the player take a 3rd person view automatically.
+	"Auto 3rd person when riding dragon" = true
+

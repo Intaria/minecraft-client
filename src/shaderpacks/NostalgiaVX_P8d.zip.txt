@@ -1,0 +1,7 @@
+#Mon Apr 03 04:49:12 GMT+07:00 2023
+USE_FOG_LPV=true
+VX_MAX_WIDTH=128
+LPV_MULTIPASS_PROPAGATION=false
+SSPT_Enabled=false
+DoFToggle=true
+indirectResReduction=4

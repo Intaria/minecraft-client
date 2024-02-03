@@ -1,0 +1,84 @@
+
+#Modify the value of the new added weapon.
+[weapon_setting]
+
+	[weapon_setting.battlestaff_settings]
+		#Enable the crafting of tool made of battlestaff
+		Enable = true
+		#Set the attack damage modifier of the battlestaff
+		#Range: -10000.0 ~ 10000.0
+		"Damage modifier" = 0.0
+		#Set the attack speed modifier of the battlestaff
+		#Range: -10000.0 ~ 10000.0
+		"Attack speed modifier" = 0.0
+
+	[weapon_setting.glaive_settings]
+		#Enable the crafting of tool made of glaive
+		Enable = true
+		#Set the attack damage modifier of the glaive
+		#Range: -10000.0 ~ 10000.0
+		"Damage modifier" = 0.0
+		#Set the attack speed modifier of the glaive
+		#Range: -10000.0 ~ 10000.0
+		"Attack speed modifier" = 0.0
+
+	[weapon_setting.greataxe_settings]
+		#Enable the crafting of tool made of greataxe
+		Enable = true
+		#Set the attack damage modifier of the greataxe
+		#Range: -10000.0 ~ 10000.0
+		"Damage modifier" = 0.0
+		#Set the attack speed modifier of the greataxe
+		#Range: -10000.0 ~ 10000.0
+		"Attack speed modifier" = 0.0
+
+	[weapon_setting.greatsword_settings]
+		#Enable the crafting of tool made of greatsword
+		Enable = true
+		#Set the attack damage modifier of the greatsword
+		#Range: -10000.0 ~ 10000.0
+		"Damage modifier" = 0.0
+		#Set the attack speed modifier of the greatsword
+		#Range: -10000.0 ~ 10000.0
+		"Attack speed modifier" = 0.0
+
+	[weapon_setting.halberd_settings]
+		#Enable the crafting of tool made of halberd
+		Enable = true
+		#Set the attack damage modifier of the halberd
+		#Range: -10000.0 ~ 10000.0
+		"Damage modifier" = 0.0
+		#Set the attack speed modifier of the halberd
+		#Range: -10000.0 ~ 10000.0
+		"Attack speed modifier" = 0.0
+
+	[weapon_setting.katana_settings]
+		#Enable the crafting of tool made of katana
+		Enable = true
+		#Set the attack damage modifier of the katana
+		#Range: -10000.0 ~ 10000.0
+		"Damage modifier" = 0.0
+		#Set the attack speed modifier of the katana
+		#Range: -10000.0 ~ 10000.0
+		"Attack speed modifier" = 0.0
+
+	[weapon_setting.scimitar_settings]
+		#Enable the crafting of tool made of scimitar
+		Enable = true
+		#Set the attack damage modifier of the scimitar
+		#Range: -10000.0 ~ 10000.0
+		"Damage modifier" = 0.0
+		#Set the attack speed modifier of the scimitar
+		#Range: -10000.0 ~ 10000.0
+		"Attack speed modifier" = 0.0
+
+	[weapon_setting.spear_settings]
+		#Enable the crafting of tool made of spear
+		Enable = true
+		#Set the attack damage modifier of the spear
+		#Range: -10000.0 ~ 10000.0
+		"Damage modifier" = 0.0
+		#Set the attack speed modifier of the spear
+		#Range: -10000.0 ~ 10000.0
+		"Attack speed modifier" = 0.0
+

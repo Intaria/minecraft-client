@@ -1,0 +1,92 @@
+
+[types]
+
+	[types.leaves_type]
+
+		[types.leaves_type.vinery]
+			grapevine = true
+			cherry = true
+
+		[types.leaves_type.ecologics]
+			coconut = true
+			walnut = true
+
+		[types.leaves_type.quark]
+			blue_blossom = true
+			lavender_blossom = true
+			orange_blossom = true
+			pink_blossom = true
+			yellow_blossom = true
+			red_blossom = true
+			ancient = true
+
+		[types.leaves_type.fruitsdelight]
+			pear = true
+			hawberry = true
+			lychee = true
+			mango = true
+			persimmon = true
+			peach = true
+			orange = true
+			apple = true
+			mangosteen = true
+			bayberry = true
+			kiwi = true
+			fig = true
+
+	[types.wood_type]
+
+		[types.wood_type.vinery]
+			cherry = true
+
+		[types.wood_type.quark]
+			bamboo = true
+			azalea = true
+			blossom = true
+			ancient = true
+
+		[types.wood_type.ecologics]
+			flowering_azalea = false
+			azalea = true
+			coconut = true
+			walnut = true
+
+		[types.wood_type.iceandfire]
+			dreadwood = false
+
+[entries]
+
+	[entries.leaves_type]
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = true
+
+	[entries.wood_type]
+
+		[entries.wood_type.quark]
+			vertical_planks = true
+			post = true
+			trapped_chest = true
+			bookshelf = true
+			chest = true
+			stripped_post = true
+			ladder = true
+			hollow_log = true
+
+		[entries.wood_type.another_furniture]
+			table = true
+			shelf = true
+			drawer = true
+			shutter = true
+			planter_box = true
+			bench = true
+			chair = true
+
+		[entries.wood_type.create]
+			window = true
+			window_pane = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
