@@ -97,7 +97,7 @@
 		# The text's vertical position on the screen.
 		# If Horizontally Center Title is enabled, this number is relative to the center of the screen.
 		# If Horizontally Center Title is disabled, this number is relative to the top of the screen.
-		# Default: -32.0
+		# Default: -36.0
 		"Text Y Offset" = -32.0
 		# The text's horizontal position on the screen.
 		# If Horizontally Center Title is enabled, this number is relative to the center of the screen.
