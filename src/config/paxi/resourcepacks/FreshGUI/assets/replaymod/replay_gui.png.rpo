@@ -1,0 +1,5 @@
+{
+    "conditions": { "not": "guiretextures:dark_mode" },
+    "fallbacks": "assets/replaymod/replay_gui_dark_mode.png"
+}
+

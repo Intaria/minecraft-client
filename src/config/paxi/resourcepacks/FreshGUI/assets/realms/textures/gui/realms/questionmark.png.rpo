@@ -1,0 +1,5 @@
+{
+    "conditions": { "not": "guiretextures:dark_mode" },
+    "fallbacks": "assets/realms/textures/gui/realms/questionmark_dark_mode.png"
+}
+

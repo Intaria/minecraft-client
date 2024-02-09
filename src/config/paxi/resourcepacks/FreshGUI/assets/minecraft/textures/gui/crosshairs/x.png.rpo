@@ -1,0 +1,8 @@
+{
+  "conditions": [
+    "guiretextures:crosshair_style.x"
+  ],
+  "fallbacks": [
+    "assets/minecraft/textures/gui/crosshairs/asterisk.png"
+  ]
+}

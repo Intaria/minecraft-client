@@ -2,7 +2,7 @@
 	// What of the GUI compass should be displayed. Default: [FXYZ]. F: facing (direction), X: x coord, Y: y coord (depth), Z: z coord.
 	"guiCompassFormat": "FXYZ",
 	// When enabled, will only show the GUI compass when a compass is present in the inventory.
-	"mustHaveCompassInInventory": true,
+	"mustHaveCompassInInventory": false,
 	// Places the GUI compass on the left.
 	"compassPositionIsLeft": true,
 	// Places the GUI compass in the middle.
