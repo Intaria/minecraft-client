@@ -1,5 +1,0 @@
-{
-    "conditions": { "not": "guiretextures:dark_mode" },
-    "fallbacks": "assets/trinkets/textures/gui/slots/charm_dark_mode.png"
-}
-
