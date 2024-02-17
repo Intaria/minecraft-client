@@ -25,9 +25,9 @@
 		#Silver
 		[common.oreGen.silver]
 			#The average cluster size silver ore generates in
-			silverClusterSize = 19
+			silverClusterSize = 10
 			#How frequent silver ore generates
-			silverFrequency = 6
+			silverFrequency = 5
 			#Minimum y level that silver ore can generate
 			silverMinHeight = -15
 			#Maximum y level that silver ore can generate
