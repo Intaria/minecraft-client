@@ -1,0 +1,4 @@
+{
+    "conditions": { "not": "guiretextures:dark_mode" },
+    "fallbacks": "assets/jgui/gui_dark_mode.png"
+}
