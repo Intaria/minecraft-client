@@ -1,5 +1,0 @@
-{
-    "conditions": { "not": "guiretextures:dark_mode" },
-    "fallbacks": "assets/polymorph/textures/gui/toggle_dark_mode.png"
-}
-

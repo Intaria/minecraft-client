@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "eatinganimation:item/dried_kelp_eating_0"
-  }
-}
