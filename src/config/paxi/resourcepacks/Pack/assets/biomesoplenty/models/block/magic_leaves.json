@@ -1,7 +1,0 @@
-{
-    "parent": "block/leaves_cross",
-    "textures": {
-        "all": "biomesoplenty:block/magic_leaves",
-        "bushy": "biomesoplenty:block/magic_leaves_bushy"
-    }
-}
