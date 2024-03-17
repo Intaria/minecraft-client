@@ -1,0 +1,137 @@
+{
+	"credit": "Made with Blockbench",
+	"texture": "textures/entity/sheep/sheep_fur.png",
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -17, -2],
+			"submodels": [
+				{
+					"id": "rotation",
+					"invertAxis": "xy",
+					"translate": [0, 17, 2],
+					"rotate": [-90, 0, 0],
+					"boxes": [
+						{"coordinates": [-4, -6, -9, 8, 16, 6], "textureOffset": [28, 8], "sizeAdd": 1.35}
+					],
+					"submodels": [
+						{
+							"id": "sheep_leg1",
+							"invertAxis": "xy",
+							"translate": [3, -3.75, -9.75],
+							"boxes": [
+								{"coordinates": [-2.75, -1.5, -3.25, 4, 4, 4], "textureOffset": [0, 16]}
+							]
+						},
+						{
+							"id": "sheep_leg2",
+							"invertAxis": "xy",
+							"mirrorTexture": "u",
+							"translate": [-3, -3.75, -9.75],
+							"boxes": [
+								{"coordinates": [-1.25, -1.5, -3.25, 4, 4, 4], "textureOffset": [0, 16]}
+							]
+						},
+						{
+							"id": "sheep_leg3",
+							"invertAxis": "xy",
+							"translate": [3, 6.25, -9.75],
+							"boxes": [
+								{"coordinates": [-2.75, -1, -3.25, 4, 4, 4], "textureOffset": [0, 16]}
+							]
+						},
+						{
+							"id": "sheep_leg4",
+							"invertAxis": "xy",
+							"mirrorTexture": "u",
+							"translate": [-3, 6.25, -9.75],
+							"boxes": [
+								{"coordinates": [-1.25, -1, -3.25, 4, 4, 4], "textureOffset": [0, 16]}
+							]
+						},
+						{
+							"id": "body2",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0],
+							"rotate": [90, 0, 0],
+							"submodels": [
+								{
+									"id": "sheep_nolegs",
+									"invertAxis": "xy",
+									"translate": [0, 2, 0],
+									"rotate": [-90, 0, 0],
+									"submodels": [
+										{
+											"id": "head_sheep2",
+											"invertAxis": "xy",
+											"translate": [0, 7.75, -2],
+											"submodels": [
+												{
+													"id": "head_rot2",
+													"invertAxis": "xy",
+													"translate": [0, 1.25, -1],
+													"rotate": [90, 0, 0],
+													"submodels": [
+														{
+															"id": "head_sheep",
+															"invertAxis": "xy",
+															"translate": [0, 0.5, -2],
+															"rotate": [12.5, 0, 0]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"rotation.rx": "0",
+					"rotation.ry": "sin(limb_swing)*limb_speed/13",
+					"sheep_leg1.rx": "-sin(limb_swing)*limb_speed",
+					"sheep_leg2.rx": "sin(limb_swing)*limb_speed",
+					"sheep_leg3.rx": "sin(limb_swing)*limb_speed",
+					"sheep_leg4.rx": "-sin(limb_swing)*limb_speed"
+				}
+			]
+		},
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -16, 8]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-3, -12, -7]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [3, -12, -7]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-3, -12, 5]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [3, -12, 5]
+		}
+	]
+}
