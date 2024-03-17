@@ -1,8 +1,0 @@
-{
-    "parent": "block/outer_stairs",
-    "textures": {
-        "bottom": "biomesoplenty:block/black_sandstone",
-        "top": "biomesoplenty:block/black_sandstone",
-        "side": "biomesoplenty:block/black_sandstone"
-    }
-}

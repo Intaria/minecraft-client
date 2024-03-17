@@ -1,8 +1,0 @@
-{
-    "parent": "block/cube_bottom_top",
-    "textures": {
-        "bottom": "quark:block/soul_sandstone2",
-        "top": "quark:block/soul_sandstone2",
-        "side": "quark:block/soul_sandstone2"
-    }
-}

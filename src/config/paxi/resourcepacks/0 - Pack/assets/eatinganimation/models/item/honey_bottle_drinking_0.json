@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "eatinganimation:item/honey_bottle_drinking_0"
-  }
-}
